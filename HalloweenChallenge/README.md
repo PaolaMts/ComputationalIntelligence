@@ -1,6 +1,6 @@
 # HalloweenChallenge
 
-Solution developed with [UnlimitedLeo](https://github.com/UnlimitedLeo)
+Solution developed with [LeoDardanello](https://github.com/LeoDardanello)
 
 Our solution uses a single state hill climber algorithm to solve the set covering problem.
 
